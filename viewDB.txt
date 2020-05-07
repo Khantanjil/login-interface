@@ -1,0 +1,7 @@
+sqlite> .headers ON
+sqlite> .mode column
+sqlite> select *
+   ...> from account_credentials
+   ...> WHERE 1;
+sqlite> 
+
